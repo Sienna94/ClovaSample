@@ -19,7 +19,7 @@
 - 사진 촬영 및 미리보기
 - 촬영한 사진 API로 요청 및 인식한 text 화면 표시
 
-<img src="https://user-images.githubusercontent.com/69448123/153759375-150a3601-86b7-41c2-b59f-2d15760bec8b.jpg" alt="image" style="zoom: 30%;" />
+<img src="https://user-images.githubusercontent.com/69448123/153759375-150a3601-86b7-41c2-b59f-2d15760bec8b.jpg" alt="image" style="zoom: 10%;" />
 
 ## 4. 트러블 슈팅
 
